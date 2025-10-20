@@ -32,5 +32,3 @@ This project demonstrates a simple CRUD system and RESTful API design.
 
 ---
 
-git clone https://github.com/aritrikg/Book-Store-MERN.git
-cd Book-Store-MERN
